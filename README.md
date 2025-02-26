@@ -25,15 +25,6 @@
 | 2023    | 1 750          | 🔼 +4.2%      |
 
 ## 📦 Популярные модели  
-Rank	Manufacturer	Model	Form Factor	Smartphone?	Year	Units Sold (million )
-	1	Nokia	1100	Bar	False	2003	250.0
-	2	Nokia	1110	Bar	False	2005	247.5
-	3	Apple	iPhone 6 & 6 Plus	Touchscreen	True	2014	222.4
-	4	Nokia	105 Series	Bar	False	2013	200.0
-	5	Apple	iPhone 6S & 6S Plus	Touchscreen	True	2015	174.1
-	6	Apple	iPhone 5S	Touchscreen	True	2013	164.5
-	7	Nokia	3210	Bar	False	1999	161.0
-  8	Apple	iPhone 7 & 7 Plus	Touchscreen	True	2016	159.9
 
 | 📱 Модель         | 💰 Цена (₽) | ⭐ Рейтинг | 🔥 Продажи (шт) |
 |------------------|------------|-----------|----------------|
@@ -43,12 +34,6 @@ Rank	Manufacturer	Model	Form Factor	Smartphone?	Year	Units Sold (million )
 | Google Pixel 7  | 79 990      | ⭐⭐⭐⭐      | 7 432          |
 | OnePlus 11      | 74 990      | ⭐⭐⭐⭐⭐     | 5 879          |
 
-## 🚀 Как загрузить в GitHub Desktop?  
-
-1. Откройте **GitHub Desktop**.  
-2. Выберите ваш проект.  
-3. Добавьте и сохраните `README.md`.  
-4. Перейдите в **GitHub Desktop** → **Commit to main** → **Push to origin**.
 
 5. ![image](https://github.com/user-attachments/assets/b157cb3e-7754-4a59-a14e-8738417525c2)
 
