@@ -17,3 +17,15 @@
 ---
 
 Теперь можно загрузить этот проект в **GitHub Desktop** и начать работу! 🚀
+MegaPhoneStore/
+│── index.html        # Главная страница (каталог)
+│── phone.html        # Страница товара
+│── about.html        # О компании
+│── contact.html      # Контакты
+│── styles/           # Папка со стилями
+│   │── style.css     # Основные стили
+│   │── phone.css     # Стили для страницы телефона
+│── images/           # Папка с изображениями телефонов
+│── README.md         # Описание проекта
+│── .gitignore        # Исключения для Git
+git clone https://github.com/your-username/MegaPhoneStore.git
